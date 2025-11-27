@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oContinue",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":11,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oNightHover",
+  "eventList":[],
   "managed":true,
-  "name":"oContinue",
+  "name":"oNightHover",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sContinue",
-    "path":"sprites/sContinue/sContinue.yy",
+    "name":"sNightHover",
+    "path":"sprites/sNightHover/sNightHover.yy",
   },
   "spriteMaskId":null,
   "visible":true,
