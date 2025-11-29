@@ -38,6 +38,7 @@
   "resources":[
     {"id":{"name":"o6thNight","path":"objects/o6thNight/o6thNight.yy",},},
     {"id":{"name":"oArrow","path":"objects/oArrow/oArrow.yy",},},
+    {"id":{"name":"oAudioController","path":"objects/oAudioController/oAudioController.yy",},},
     {"id":{"name":"oContinue","path":"objects/oContinue/oContinue.yy",},},
     {"id":{"name":"oCustomNight","path":"objects/oCustomNight/oCustomNight.yy",},},
     {"id":{"name":"oFade","path":"objects/oFade/oFade.yy",},},
@@ -50,9 +51,9 @@
     {"id":{"name":"oTitle","path":"objects/oTitle/oTitle.yy",},},
     {"id":{"name":"oWarning","path":"objects/oWarning/oWarning.yy",},},
     {"id":{"name":"rm_MainMenu","path":"rooms/rm_MainMenu/rm_MainMenu.yy",},},
+    {"id":{"name":"rm_Newspaper","path":"rooms/rm_Newspaper/rm_Newspaper.yy",},},
     {"id":{"name":"rm_WarningScreen","path":"rooms/rm_WarningScreen/rm_WarningScreen.yy",},},
     {"id":{"name":"fadeToRoom","path":"scripts/fadeToRoom/fadeToRoom.yy",},},
-    {"id":{"name":"RandomOpac","path":"scripts/RandomOpac/RandomOpac.yy",},},
     {"id":{"name":"blip3","path":"sounds/blip3/blip3.yy",},},
     {"id":{"name":"darkness_music","path":"sounds/darkness_music/darkness_music.yy",},},
     {"id":{"name":"mus_static","path":"sounds/mus_static/mus_static.yy",},},
@@ -73,6 +74,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_WarningScreen","path":"rooms/rm_WarningScreen/rm_WarningScreen.yy",},},
     {"roomId":{"name":"rm_MainMenu","path":"rooms/rm_MainMenu/rm_MainMenu.yy",},},
+    {"roomId":{"name":"rm_Newspaper","path":"rooms/rm_Newspaper/rm_Newspaper.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
