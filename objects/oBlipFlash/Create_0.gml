@@ -1,0 +1,1 @@
+audio_play_sound(blip3, 0, 0);

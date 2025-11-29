@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"darkness_music",
+  "%Name":"mus_darkness_music",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,7 +10,7 @@
   "compression":0,
   "conversionMode":0,
   "duration":62.35068,
-  "name":"darkness_music",
+  "name":"mus_darkness_music",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"darkness_music.wav",
+  "soundFile":"mus_darkness_music.wav",
   "type":0,
   "volume":1.0,
 }
