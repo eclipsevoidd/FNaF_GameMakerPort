@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"sh_curve",
+  "name":"sh_curve",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}
