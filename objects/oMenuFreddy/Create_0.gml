@@ -25,5 +25,6 @@ self.RandomOpac = function() {
 
 opacTimer = time_source_create(time_source_game, 0.09, time_source_units_seconds, self.RandomOpac, [], -1);
 twitchTimer = time_source_create(time_source_game, 0.08, time_source_units_seconds, self.FreddyTwitch, [], -1);
+
 time_source_start(opacTimer);
 time_source_start(twitchTimer);

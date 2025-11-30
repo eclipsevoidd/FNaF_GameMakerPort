@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"amb_ColdPresc_B",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":2,
+  "conversionMode":0,
+  "duration":115.449615,
+  "name":"amb_ColdPresc_B",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"amb_ColdPresc_B.wav",
+  "type":0,
+  "volume":1.0,
+}

@@ -17,5 +17,5 @@ if (instance_exists(oNewspaper)) {
 }
 
 audio_stop_sound(mus_darkness_music);
-audio_stop_sound(mus_static);
+audio_stop_sound(snd_static);
 room_goto(rm_NightLoad);

@@ -1,16 +1,16 @@
 {
   "$GMSound":"",
-  "%Name":"mus_static",
+  "%Name":"snd_Buzz_Fan_Florescent2",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
   },
   "bitDepth":1,
   "bitRate":128,
-  "compression":0,
+  "compression":2,
   "conversionMode":0,
-  "duration":10.833015,
-  "name":"mus_static",
+  "duration":9.595328,
+  "name":"snd_Buzz_Fan_Florescent2",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"mus_static.wav",
+  "soundFile":"snd_Buzz_Fan_Florescent2.wav",
   "type":0,
   "volume":1.0,
 }

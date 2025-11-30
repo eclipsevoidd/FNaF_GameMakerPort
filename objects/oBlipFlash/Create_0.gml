@@ -1,1 +1,1 @@
-audio_play_sound(blip3, 0, 0);
+audio_play_sound(snd_blip3, 0, 0);

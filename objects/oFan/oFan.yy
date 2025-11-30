@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oMenuFreddy",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oFan",
+  "eventList":[],
   "managed":true,
-  "name":"oMenuFreddy",
+  "name":"oFan",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sMenuFreddy",
-    "path":"sprites/sMenuFreddy/sMenuFreddy.yy",
+    "name":"sFan",
+    "path":"sprites/sFan/sFan.yy",
   },
   "spriteMaskId":null,
   "visible":true,

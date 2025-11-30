@@ -19,7 +19,7 @@ if (timeAccumulator <= endFadein) {
 	if (image_alpha <= 0) {
 		instance_destroy();
 		audio_stop_sound(mus_darkness_music);
-		audio_stop_sound(mus_static);
+		audio_stop_sound(snd_static);
 		room_goto(rm_NightLoad);
 	}
 }

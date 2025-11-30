@@ -1,7 +1,7 @@
 var _dt = delta_time / 1000000 // converting delta time (microseconds) to seconds
 timeAccumulator += _dt;
 
-//sprite_prefetch_multi();  we will put all the office sprites here
+sprite_prefetch_multi([sOffice]);  //we will put all the office sprites here
 
 var endFadein = 1.01;
 var endWait = 2.1667;
