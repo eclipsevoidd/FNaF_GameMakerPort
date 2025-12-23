@@ -1,0 +1,1 @@
+audio_play_sound(snd_PartyFavorraspyPart_AC01__3, 0, 0);

@@ -1,8 +1,6 @@
 var _dt = delta_time / 1000000 // converting delta time (microseconds) to seconds
 timeAccumulator += _dt;
 
-sprite_prefetch_multi([sOffice]);  //we will put all the office sprites here
-
 var endFadein = 1.01;
 var endWait = 2.1667;
 
@@ -12,6 +10,7 @@ if (timeAccumulator >= endWait) {
 
 if (image_alpha <= 0) {
 	oLoadClock.image_alpha = 1;
+	sprite_prefetch_multi([sOffice, sFan, sDoorButtonsLeft, sDoorButtonsRight]);
 	room_goto(rm_Office);
 	instance_destroy();
 		

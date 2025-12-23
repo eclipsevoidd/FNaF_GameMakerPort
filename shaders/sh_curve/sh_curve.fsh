@@ -4,7 +4,7 @@
 varying vec2 v_vTexcoord;
 varying vec4 v_vColour;
 
-float curve_amt = 1.5;
+float curve_amt = 1.6;
 
 void main() 
 {
