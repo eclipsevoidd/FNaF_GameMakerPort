@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"amb_BallastHumMedium2",
+  "%Name":"snd_BallastHumMedium2",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,7 +10,7 @@
   "compression":2,
   "conversionMode":0,
   "duration":8.638141,
-  "name":"amb_BallastHumMedium2",
+  "name":"snd_BallastHumMedium2",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"amb_BallastHumMedium2.wav",
+  "soundFile":"snd_BallastHumMedium2.wav",
   "type":0,
   "volume":1.0,
 }

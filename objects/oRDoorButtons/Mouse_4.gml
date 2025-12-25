@@ -1,6 +1,6 @@
 if (id == doorR) {
 	if (!animating) {
-	    if (!closed) {
+	    if (closed == false) {
 	        oRightDoor.image_speed = 1;
 	        animating = true;
 			oDoorButtonsRight.image_index += 2;
@@ -16,4 +16,22 @@ if (id == doorR) {
 	        audio_played = true;
 	    }
 	}	
+} else if (id == lightR) {
+	// Turn off the LEFT light if it's on
+	if (oLDoorButtons.lighton) {
+		oLDoorButtons.image_index--;
+		oLDoorButtons.lighton = false;
+		oOffice.image_index = 0; // Force reset
+		audio_stop_sound(snd_BallastHumMedium2);
+	}
+	
+	if (lighton == false) {
+		oDoorButtonsRight.image_index++;
+		lighton = true;
+	} else {
+		oDoorButtonsRight.image_index--;
+		lighton = false;
+		oOffice.image_index = 0;
+		audio_stop_sound(snd_BallastHumMedium2);
+	}
 }
