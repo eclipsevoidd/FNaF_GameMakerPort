@@ -3,8 +3,8 @@ if (timer >= 0.01) {
 	rand_10 = irandom_range(1, 10);
 	timer = 0;
 }
-if (lighton) {
-	if (rand_10 > 1 && oRDoorButtons.lighton == false) {
+if (lighton && !oRDoorButtons.lighton) {
+	if (rand_10 > 1) {
 		oOffice.image_index = 1;
 		if (!audio_is_playing(snd_BallastHumMedium2)) {
 			audio_play_sound(snd_BallastHumMedium2, 0, true, 1);

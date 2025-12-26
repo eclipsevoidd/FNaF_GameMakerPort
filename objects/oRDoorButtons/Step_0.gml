@@ -1,4 +1,4 @@
-if (lighton) {
+if (lighton && !oLDoorButtons.lighton) {
 	if (oLDoorButtons.rand_10 > 1) {	
 		oOffice.image_index = 2;
 		if (!audio_is_playing(snd_BallastHumMedium2)) {
