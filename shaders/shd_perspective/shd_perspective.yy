@@ -1,7 +1,7 @@
 {
   "$GMShader":"",
-  "%Name":"sh_curve",
-  "name":"sh_curve",
+  "%Name":"shd_perspective",
+  "name":"shd_perspective",
   "parent":{
     "name":"Shaders",
     "path":"folders/Shaders.yy",
