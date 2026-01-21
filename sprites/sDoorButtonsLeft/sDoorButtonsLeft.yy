@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sDoorButtonsLeft",
   "bboxMode":0,
   "bbox_bottom":214,
@@ -12,10 +12,10 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"8494378f-4637-4dcf-967a-31d25b3c829d","name":"8494378f-4637-4dcf-967a-31d25b3c829d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"1f1526d5-1515-452c-9d4c-822a8c7df4cf","name":"1f1526d5-1515-452c-9d4c-822a8c7df4cf","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"e942e20b-2020-4495-8bb7-6ccb4d64444b","name":"e942e20b-2020-4495-8bb7-6ccb4d64444b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"a1df6d7c-e3f3-4043-8225-d4dd942cee72","name":"a1df6d7c-e3f3-4043-8225-d4dd942cee72","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"8494378f-4637-4dcf-967a-31d25b3c829d","name":"8494378f-4637-4dcf-967a-31d25b3c829d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"1f1526d5-1515-452c-9d4c-822a8c7df4cf","name":"1f1526d5-1515-452c-9d4c-822a8c7df4cf","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"e942e20b-2020-4495-8bb7-6ccb4d64444b","name":"e942e20b-2020-4495-8bb7-6ccb4d64444b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a1df6d7c-e3f3-4043-8225-d4dd942cee72","name":"a1df6d7c-e3f3-4043-8225-d4dd942cee72","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -73,18 +73,10 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8494378f-4637-4dcf-967a-31d25b3c829d","path":"sprites/sDoorButtonsLeft/sDoorButtonsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"3e559ed8-4dc1-4688-8ec6-cc0338fb247b","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1f1526d5-1515-452c-9d4c-822a8c7df4cf","path":"sprites/sDoorButtonsLeft/sDoorButtonsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"58c87852-127b-4cd4-97eb-42ca20ff45b8","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e942e20b-2020-4495-8bb7-6ccb4d64444b","path":"sprites/sDoorButtonsLeft/sDoorButtonsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"b41ca056-8e28-49bb-b57c-078c16168592","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a1df6d7c-e3f3-4043-8225-d4dd942cee72","path":"sprites/sDoorButtonsLeft/sDoorButtonsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"b99e8a70-a54f-49e9-818f-a372b02eb070","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"8494378f-4637-4dcf-967a-31d25b3c829d","path":"sprites/sDoorButtonsLeft/sDoorButtonsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"3e559ed8-4dc1-4688-8ec6-cc0338fb247b","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"1f1526d5-1515-452c-9d4c-822a8c7df4cf","path":"sprites/sDoorButtonsLeft/sDoorButtonsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"58c87852-127b-4cd4-97eb-42ca20ff45b8","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"e942e20b-2020-4495-8bb7-6ccb4d64444b","path":"sprites/sDoorButtonsLeft/sDoorButtonsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"b41ca056-8e28-49bb-b57c-078c16168592","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"a1df6d7c-e3f3-4043-8225-d4dd942cee72","path":"sprites/sDoorButtonsLeft/sDoorButtonsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"b99e8a70-a54f-49e9-818f-a372b02eb070","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

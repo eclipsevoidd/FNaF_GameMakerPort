@@ -1,15 +1,17 @@
 {
-  "$GMSound":"",
+  "$GMSound":"v2",
   "%Name":"snd_Buzz_Fan_Florescent2",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
   },
   "bitDepth":1,
-  "bitRate":128,
+  "channelFormat":0,
   "compression":2,
+  "compressionQuality":4,
   "conversionMode":0,
   "duration":9.595328,
+  "exportDir":"",
   "name":"snd_Buzz_Fan_Florescent2",
   "parent":{
     "name":"Sounds",
@@ -20,6 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"snd_Buzz_Fan_Florescent2.wav",
-  "type":0,
   "volume":1.0,
 }
