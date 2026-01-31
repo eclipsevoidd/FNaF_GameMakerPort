@@ -1,4 +1,4 @@
-if (id == doorL) {
+if (id == doorL && global.camUp == false) {
     if (!animating) {
         if (closed == false) {
             oLeftDoor.image_speed = 1;
@@ -16,10 +16,10 @@ if (id == doorL) {
             audio_played = true;
         }
     }   
-} else if (id == lightL) {
+} else if (id == lightL && global.camUp == false) {
     // we use with() {} here to find the correct instance for lighton
 	// because GML sometimes finds the wrong instance (like doorL instead of lightL)
-    with (oRDoorButtons) {
+    with (oRDoorButtonBBox) {
         if (lighton == true) {
             oDoorButtonsRight.image_index--; 
             lighton = false;

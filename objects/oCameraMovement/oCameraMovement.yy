@@ -1,17 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"oLDoorButtons",
+  "%Name":"oCameraMovement",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oLDoorButtons",
+  "name":"oCameraMovement",
   "overriddenProperties":[],
   "parent":{
-    "name":"Office",
-    "path":"folders/Objects/Office.yy",
+    "name":"Camera",
+    "path":"folders/Objects/Office/Camera.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -32,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sDoorButtonBBox",
-    "path":"sprites/sDoorButtonBBox/sDoorButtonBBox.yy",
+    "name":"sCameraMovement",
+    "path":"sprites/sCameraMovement/sCameraMovement.yy",
   },
   "spriteMaskId":null,
   "visible":true,

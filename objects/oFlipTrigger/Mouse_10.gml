@@ -5,3 +5,5 @@ if (!instance_exists(oFlipAnimation)) {
 if (global.camUp = true) {
 	global.camUp = false;
 }
+
+instance_deactivate_object(oFlipPanel);

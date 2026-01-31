@@ -1,4 +1,4 @@
-if (id == doorR) {
+if (id == doorR && global.camUp == false) {
     if (!animating) {
         if (closed == false) {
             oRightDoor.image_speed = 1;
@@ -16,8 +16,8 @@ if (id == doorR) {
             audio_played = true;
         }
     }   
-} else if (id == lightR) {
-	with (oLDoorButtons) {
+} else if (id == lightR && global.camUp == false) {
+	with (oLDoorButtonBBox) {
         if (lighton == true) {
             oDoorButtonsLeft.image_index--;
             lighton = false;

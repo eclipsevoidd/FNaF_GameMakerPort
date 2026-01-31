@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oFlipTrigger",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":11,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oCamBall",
+  "eventList":[],
   "managed":true,
-  "name":"oFlipTrigger",
+  "name":"oCamBall",
   "overriddenProperties":[],
   "parent":{
     "name":"Camera",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sFlipTrigger",
-    "path":"sprites/sFlipTrigger/sFlipTrigger.yy",
+    "name":"sCamBall",
+    "path":"sprites/sCamBall/sCamBall.yy",
   },
   "spriteMaskId":null,
   "visible":true,
