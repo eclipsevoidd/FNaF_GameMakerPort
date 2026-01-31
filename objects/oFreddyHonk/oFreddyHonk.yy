@@ -8,8 +8,8 @@
   "name":"oFreddyHonk",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Office",
+    "path":"folders/Objects/Office.yy",
   },
   "parentObjectId":null,
   "persistent":false,

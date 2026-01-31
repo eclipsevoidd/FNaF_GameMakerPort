@@ -9,8 +9,8 @@
   "name":"oFadeController",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Warning",
+    "path":"folders/Objects/Warning.yy",
   },
   "parentObjectId":null,
   "persistent":false,

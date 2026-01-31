@@ -9,11 +9,8 @@ if (timeAccumulator >= endWait) {
 }
 
 if (image_alpha <= 0) {
-	oLoadClock.image_alpha = 1;
-	sprite_prefetch_multi([sOffice, sFan, sDoorButtonsLeft, sDoorButtonsRight]);
+	instance_create_depth(1216, 672, 0, oLoadClock);
+	sprite_prefetch_multi([sOffice, sFan, sDoorButtonsLeft, sDoorButtonsRight, sFlipAnimation]);
 	room_goto(rm_Office);
 	instance_destroy();
-		
-	
-	
 }

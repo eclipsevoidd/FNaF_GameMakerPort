@@ -4,7 +4,7 @@ varying vec4 v_vColour;
 float fPixelWidth = 0.001;
 float fPixelHeight = 0.001;
 float pDir = 0.0;
-float zoom = 330.0;
+float zoom = 400.0;
 float noWrap = 1.0;
 
 void main()

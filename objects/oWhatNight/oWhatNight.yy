@@ -9,8 +9,8 @@
   "name":"oWhatNight",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Loading",
+    "path":"folders/Objects/Loading.yy",
   },
   "parentObjectId":null,
   "persistent":false,
