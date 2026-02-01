@@ -1,2 +1,3 @@
-myTimer = time_source_create(time_source_game, 2, time_source_units_seconds, fadeToRoom, [rm_MainMenu, 61, c_black], 1);
-time_source_start(myTimer); // starts the timer
+timer_delay = 0;
+target_delay = 1.06;
+started_transition = false;

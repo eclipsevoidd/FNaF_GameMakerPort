@@ -1,11 +1,7 @@
-// default properties
-duration = -1;
-targetRoom = room;
+duration = 1.06;
+targetRoom = noone;
 color = c_black;
-
-// variables
-timer = 0;
+elapsed = 0;
 alpha = 0;
-state = 0;
 
-persistent = false;
+persistent = true;
